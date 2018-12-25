@@ -6,3 +6,5 @@ Orange
 Red
 unicorn
 we added the unicorn
+purple
+blue lagoon
